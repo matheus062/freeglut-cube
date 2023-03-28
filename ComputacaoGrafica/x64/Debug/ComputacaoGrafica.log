@@ -1,0 +1,4 @@
+﻿  ComputacaoGrafica.cpp
+C:\Users\mathe\Desktop\ComputacaoGrafica\ComputacaoGrafica\ComputacaoGrafica.cpp(157,2): warning C4060: instrução switch não contém nenhum rótulo 'case' ou 'default'
+  ComputacaoGrafica.vcxproj -> C:\Users\mathe\Desktop\ComputacaoGrafica\x64\Debug\ComputacaoGrafica.exe
+          1 arquivo(s) copiado(s).
